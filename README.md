@@ -10,8 +10,7 @@ This project is part of my **HTML and CSS assignment**. It includes:
 
 ##  Live Demo  
 
-- **GitHub Repository:** https://github.com/InezaBonheurCedrick/Klab-academy/tree/main  
-- **Hosted Project Link:** [Your Live Hosting Link Here]  
+- **GitHub Repository:** https://github.com/InezaBonheurCedrick/Klab-academy/tree/main
 
 ---
 
