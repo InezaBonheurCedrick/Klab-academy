@@ -10,7 +10,7 @@ This project is part of my **HTML and CSS assignment**. It includes:
 
 ##  Live Demo  
 
-- **GitHub Repository:** [Your Repo Link Here]  
+- **GitHub Repository:** https://github.com/InezaBonheurCedrick/Klab-academy/tree/main  
 - **Hosted Project Link:** [Your Live Hosting Link Here]  
 
 ---
@@ -32,7 +32,7 @@ This project is part of my **HTML and CSS assignment**. It includes:
 
 1. Clone this repository:  
    ```bash
-   https://github.com/InezaBonheurCedrick/twitter-and-linkedin-clone.git
+   https://github.com/InezaBonheurCedrick/Klab-academy.git
 2. Open the project folder in your editor.
 
 3. Run the project by opening twitter.html or linkedin.html in your browser.
